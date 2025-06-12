@@ -11,5 +11,5 @@ container.appendChild(heading);
 
 const btn = document.querySelector("#btn");
 btn.addEventListener("click", function(e) {
-    e.target.style.background = "blue";
+    e.target.style.background = "black";
 }) 
